@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-
+![Image Alt Text](image-source)
+<!-- HTML Image Tag -->
+<img alt="Image Alt Text" src="image-source" />
 **JetCigar/JetCigar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
