@@ -27,7 +27,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <div>
-# <span style="color:green">Programming Skill</span>
+<span style="color:green;"><h1>Programming Skill</h1></span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="Java" width="40" height="40"/>&nbsp;
   <div>FrameWork</div>
